@@ -16,9 +16,14 @@
 
 - **Automatic genre EQ.** It detects the song playing in Spotify, YouTube Music, YouTube or Apple Music and applies a matching tone. You can customise every genre curve.
 - **Headphone correction.** It has 6,000+ AutoEQ profiles. It recognises Bluetooth, USB-C and wired headphones and remembers your choice per device.
+- **Genre strength:** choose how strongly genre EQ shapes the sound.
+- **My devices:** give each pair of headphones, the car and the phone speaker their own sound.
+- **Sound layers:** see exactly what EQify changes, with a plain-language summary.
+- **Your week in sound:** genres, top artists and a shareable card.
 - **Manual 8-band EQ** with your own presets, which you can share as codes, files or QR codes.
 - **Bass boost and output protection** (a limiter) so boosts don't clip.
 - **Themes**, and a Quick Settings tile.
+- **Update alerts** in the app, plus automatic updates through Obtainium.
 - **No account, no ads, no analytics.** See the [privacy policy](PRIVACY.md).
 
 Requires Android 8.0 or later.
