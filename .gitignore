@@ -1,0 +1,2 @@
+# APKs go in GitHub Releases as assets, not in the repository
+*.apk
