@@ -21,7 +21,12 @@
 - **Sound layers:** see exactly what EQify changes, with a plain-language summary.
 - **Your week in sound:** genres, top artists and a shareable card.
 - **Manual 8-band EQ** with your own presets, which you can share as codes, files or QR codes.
-- **Bass boost and output protection** (a limiter) so boosts don't clip.
+- **Bass boost and output protection** (a limiter) so boosts don't clip, with optional easing at high volume and a bass button in the notification.
+- **Backup and restore** of presets, genre curves, devices and settings to one file.
+- **Loudness compensation** for full sound at low volume, and an optional **volume limit**.
+- **Sleep timer** that fades the music out, plus **test sounds** (left, right, sweep).
+- **Home screen widget**, app-icon shortcuts and **Tasker** support.
+- Works in **landscape and on tablets**.
 - **Themes**, and a Quick Settings tile.
 - **Update alerts** in the app, plus automatic updates through Obtainium.
 - **No account, no ads, no analytics.** See the [privacy policy](PRIVACY.md).
