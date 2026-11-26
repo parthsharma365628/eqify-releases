@@ -20,3 +20,5 @@ labels: bug
 - Android version:
 - Music app:
 - Headphones and connection (Bluetooth / USB-C / wired):
+- Output protection (Settings → Sound: Balanced / Safe / Off):
+- Watch model, if it's about the Wear OS app:

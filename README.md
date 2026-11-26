@@ -29,7 +29,7 @@
 - Works in **landscape and on tablets**.
 - **Safe listening** reminders based on WHO guidance, **stereo balance**, a **live spectrum**, and **AutoEQ ParametricEQ** import.
 - A **Wear OS** remote (optional, separate APK).
-- **Themes**, and a Quick Settings tile.
+- **Themes**, and Quick Settings tiles for EQ, Bass and the Sleep timer.
 - **Update alerts** in the app, plus automatic updates through Obtainium.
 - **No account, no ads, no analytics.** See the [privacy policy](PRIVACY.md).
 
