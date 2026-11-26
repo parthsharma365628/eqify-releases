@@ -27,6 +27,8 @@
 - **Sleep timer** that fades the music out, plus **test sounds** (left, right, sweep).
 - **Home screen widget**, app-icon shortcuts and **Tasker** support.
 - Works in **landscape and on tablets**.
+- **Safe listening** reminders based on WHO guidance, **stereo balance**, a **live spectrum**, and **AutoEQ ParametricEQ** import.
+- A **Wear OS** remote (optional, separate APK).
 - **Themes**, and a Quick Settings tile.
 - **Update alerts** in the app, plus automatic updates through Obtainium.
 - **No account, no ads, no analytics.** See the [privacy policy](PRIVACY.md).
@@ -52,6 +54,14 @@ Beta versions are marked as pre-releases. If Obtainium says it found no release,
 
 1. Open the [latest release](../../releases) and download `EQify-<version>.apk`.
 2. Open the file and allow **Install unknown apps** for your browser or file manager when asked.
+
+### Wear OS watch (optional)
+
+The watch app is a remote for EQify on your phone: Pause, Bass and the sleep timer.
+
+1. Download `EQify-Wear-<version>.apk` from the same release.
+2. Install it on the watch. Turn on **Developer options → ADB debugging** and **Debug over Wi-Fi** on the watch, then run `adb connect <watch IP>` and `adb install EQify-Wear-<version>.apk`.
+3. Open EQify on the watch while EQify is running on the phone.
 
 ### Before and after installing
 
